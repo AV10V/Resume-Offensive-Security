@@ -2,7 +2,7 @@
 
 **Cyber Security Specialist**
 
-(587)896-8118 pavlov.andrii@gmail.com [LinkedIn](https://www.linkedin.com/in/av10v/) [GitHub](https://github.com/AV10V)
+Vancover, BC (587)896-8118 pavlov.andrii@gmail.com [LinkedIn](https://www.linkedin.com/in/av10v/) [GitHub](https://github.com/AV10V)
 
 ---
 
@@ -50,6 +50,19 @@ Cybersecurity professional with over 10 years of experience in **Offensive Secur
 - Database Security: Imperva, Oracle Database Vault
 - SIEM: IBM QRadar, Splunk
 - IAM: CyberArk, RBAC, IDaaS for SaaS, PaaS, and IaaS
+
+### Mobile Application Testing
+- Expertise in identifying and addressing security vulnerabilities in mobile apps (e.g., OWASP Mobile Top 10)
+- Platforms: iOS, Android
+- Tools: JADX, APKTool, Android Studio, Xcode, MobSF, ProxyMan, Burp Suite, Objection, Frida, Ghost Framework, IPAtool, SSL Kill Switch
+- Testing Types: Functional Testing, Performance Testing, Security Testing, Reverse Engineering, Usability Testing
+Expertise:
+  * Static and dynamic analysis of mobile applications to identify vulnerabilities (e.g., OWASP Mobile Top 10).
+  * API Testing with tools like Postman and Burp Suite for assessing backend communication.
+  * Secure certificate pinning bypass and SSL/TLS validation testing with tools such as Frida and SSL Kill Switch.
+  * Reverse engineering and decompiling APKs and IPA files using JADX, APKTool, and IPAtool.
+  * Penetration testing of mobile applications leveraging MobSF and Objection for vulnerability analysis and  exploitation.
+  * Network traffic interception and monitoring via ProxyMan and Burp Suite.
 
 ### DevOps & Automation Tools
 - Docker, Kubernetes (containerization and orchestration)
