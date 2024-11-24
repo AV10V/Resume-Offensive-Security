@@ -1,5 +1,3 @@
-
-
 # Andrew Pavlov
 
 **Cyber Security Specialist**
