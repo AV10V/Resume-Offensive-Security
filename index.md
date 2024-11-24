@@ -1,20 +1,8 @@
-<script>
-    window.addEventListener('scroll', () => {
-        const elements = document.querySelectorAll('main');
-        elements.forEach(element => {
-            const rect = element.getBoundingClientRect();
-            if (rect.top < 0 || rect.bottom > window.innerHeight) {
-                element.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
-        });
-    });
-</script>
-
 # Andrew Pavlov
 
 **Cyber Security Specialist**
 
-Vancouver, BC | (587)896-8118 | pavlov.andrii@gmail.com | [LinkedIn](#) | [GitHub](#)
+Vancouver, BC (587)896-8118 pavlov.andrii@gmail.com[LinkedIn](https://www.linkedin.com/in/av10v/) [GitHub](https://github.com/AV10V)
 
 ---
 
