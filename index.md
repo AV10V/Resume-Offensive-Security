@@ -15,25 +15,30 @@ Cybersecurity professional with over 10 years of experience in **Offensive Secur
 ## Technical Skills
 
 ### Operating Systems:
-- Windows Server (2019/2022)
-- Linux (Ubuntu, CentOS, Kali, BlackArch)
-- Unix (AIX, Solaris)
-- macOS
+- Windows Server 2016/2019/2022
+- Linux (Ubuntu, CentOS, Kali Linux, BlackArch Linux, Red Hat Enterprise Linux, Debian)
+- Unix (AIX, Solaris, FreeBSD)
+- macOS (Monterey, Ventura)
 
 ### Cloud Solutions:
-- AWS
-- Microsoft Azure
+- Amazon Web Services (AWS): EC2, S3, Lambda, CloudFormation
+- Microsoft Azure: Azure Security Center, Azure AD, Azure Virtual Machines
+- Google Cloud Platform (GCP): Compute Engine, Cloud Storage
 
 ### Scripting and Programming:
-- PowerShell
-- Python
+- PowerShell (advanced scripting, task automation)
+- Python (libraries: requests, pandas, scikit-learn, socket)
+- Bash (automation and server management)
+- SQL (queries and database management)
+- JSON/YAML (configuration files and APIs)
 
 ### Networking Protocols:
-- SMTP
-- HTTP(s)
-- DNS
-- TCP/IP
-- SNMP
+- SMTP, POP3, IMAP (email protocols)
+- HTTP/HTTPS (web communication)
+- DNS, DHCP (network services)
+- TCP/IP, UDP, ICMP (transport and internet protocols)
+- SNMP, Syslog (network monitoring)
+- VPN (IPSec, OpenVPN, WireGuard)
 
 ### Tools and Systems:
 - Vulnerability Assessment: Qualys, Nessus, OpenVAS
@@ -45,6 +50,11 @@ Cybersecurity professional with over 10 years of experience in **Offensive Secur
 - Database Security: Imperva, Oracle Database Vault
 - SIEM: IBM QRadar, Splunk
 - IAM: CyberArk, RBAC, IDaaS for SaaS, PaaS, and IaaS
+
+### DevOps & Automation Tools
+- Docker, Kubernetes (containerization and orchestration)
+- Jenkins, GitLab CI/CD (automation pipelines)
+- Ansible, Terraform (infrastructure as code)
 
 ### Standards and Methodologies:
 - ISO/IEC 27001, PCI-DSS, SOX, NIST, GDPR, FISMA, SOC 2, CIS Controls
