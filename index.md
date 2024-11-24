@@ -2,7 +2,7 @@
 
 **Cyber Security Specialist**
 
-Vancouver, BC (587)896-8118 pavlov.andrii@gmail.com[LinkedIn](https://www.linkedin.com/in/av10v/) [GitHub](https://github.com/AV10V)
+Vancouver, BC (587)896-8118 pavlov.andrii@gmail.com [LinkedIn](https://www.linkedin.com/in/av10v/) [GitHub](https://github.com/AV10V)
 
 ---
 
