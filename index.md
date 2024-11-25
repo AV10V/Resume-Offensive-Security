@@ -18,7 +18,6 @@ Cybersecurity professional with over 10 years of experience in **Offensive Secur
 - Windows Server (2016, 2019, 2022)
 - Windows (10 Pro/Enterprise, 11 Pro/Enterprise, IoT Core/Enterprise)
 - Linux (Ubuntu, CentOS, Kali Linux, BlackArch Linux, Red Hat Enterprise Linux, Debian, Fedora)
-- Unix (AIX, Solaris, FreeBSD, OpenBSD, NetBSD, DragonFly BSD)
 - macOS (Monterey, Ventura, Sonoma, Big Sur)
 - Virtualized and Containerized Environments (VMware ESXi, VirtualBox, Docker OS images)
 
