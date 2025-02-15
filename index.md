@@ -111,7 +111,6 @@ _09/2007 – 07/2013_
 
 ## Certificates & Training
 
-- **CISSP** (ISC2) - Ongoing
 - **OSCP** (OffSec) - Ongoing
 - **CC** (ISC2)
 - **CEH** (CISCO)
