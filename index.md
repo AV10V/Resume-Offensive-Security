@@ -79,21 +79,21 @@ Expertise:
 
 ### Offensive Security Specialist  
 **Cyberoo, BC, Canada (remote)**  
-_06/2023 – 09/2024_
+_11/2023 – 09/2024_
 
 - Performed over 80 advanced penetration tests across various environments, uncovering 4000+ critical vulnerabilities and reducing organizational risk by 75%.
 - Implemented security hardening measures based on findings, leading to a 40% reduction in attack surfaces across critical infrastructure.
 
 ### Penetration Tester  
-**H-X Technologies, Florida, USA (remote)**  
-_12/2020 – 06/2023_
+**H-X Technologies, (remote)**  
+_12/2020 – 11/2023_
 
 - Conducted over 100 penetration tests on corporate networks and applications, identifying and mitigating 5000+ critical vulnerabilities, reducing overall risk exposure by 60%.
 - Prevented potential breaches in 30+ high-profile systems, reducing the likelihood of successful attacks by 70%.
 - Delivered comprehensive security reports with detailed remediation steps, improving patching speed by 50%.
 
 ### Cyber Security Analyst  
-**TechCom Services, Florida, USA (remote)**  
+**TechCom Services, (remote)**  
 _01/2014 – 12/2020_
 
 - Led the execution of over 50 security audits, achieving 100% compliance with standards such as ISO 27001 and GDPR.
