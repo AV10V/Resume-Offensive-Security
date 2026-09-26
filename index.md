@@ -120,7 +120,7 @@ Expertise:
 - Delivered comprehensive security reports with detailed remediation steps, improving patching speed by 50%.
 
 ### Cyber Security Analyst  
-**TechCom Services)** _01/2014 – 12/2020_
+**TechCom Services** _01/2014 – 12/2020_
 
 - Led the execution of over 50 security audits, achieving 100% compliance with standards such as ISO 27001 and GDPR.
 - Designed and delivered cybersecurity training programs to 1,000+ employees, reducing human error incidents by 60%.
