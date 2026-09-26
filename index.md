@@ -8,7 +8,7 @@ Vancover,BC (587)896-8118 pavlov.andrii@gmail.com [LinkedIn](https://www.linkedi
 
 ## Professional Summary
 
-Cybersecurity professional with over 10 years of experience in **Offensive Security**, **Penetration Testing**, and **Risk Management**. Expertise in safeguarding organizational assets through effective threat detection, vulnerability exploitation, and security policy development. Adept at identifying and reporting security risks, managing security tools, and implementing best practices in offensive security.
+Cybersecurity professional with with hands-on experience in experience in **Offensive Security**, **Penetration Testing**, and **Risk Management**. Expertise in safeguarding organizational assets through effective threat detection, vulnerability exploitation, and security policy development. Adept at identifying and reporting security risks, managing security tools, and implementing best practices in offensive security.
 
 ---
 
@@ -77,15 +77,45 @@ Expertise:
 
 ## Professional Experience
 
-### Offensive Security Specialist  
-**Cyberoo, BC, Canada (remote)**  
-_11/2023 – 09/2024_
+### Senior Application Security Analyst 
+**Royal Bank of Canada**
+_05/2025 - current_
 
-- Performed over 80 advanced penetration tests across various environments, uncovering 4000+ critical vulnerabilities and reducing organizational risk by 75%.
-- Implemented security hardening measures based on findings, leading to a 40% reduction in attack surfaces across critical infrastructure.
+-	Lead and perform application security assessments of web, API, and mobile applications, including manual penetration testing, secure code review, and automated scanning (SAST, DAST, SCA, IaC), and document findings and remediation plans.
+-	Confer with development, product, and infrastructure teams to identify and document security requirements, and assess technical security risks to software, data, and systems.
+-	Build and maintain threat models and risk assessments for new and existing applications, and prioritize vulnerabilities based on business impact.
+-	Apply encryption protocols and manage cryptographic keys to ensure the security of application data at rest and in transit, including review of TLS configurations and key management practices
+-	Design, configure, test, and operate application security tooling, such as WAF, SAST/DAST platforms, and automated threat detection, to ensure controls work as intended
+-	Test access, authentication, and credentials for information and systems (IAM, OAuth, JWT, SSO), and ensure least-privilege access across applications.
+-	Providing guidelines for preventing cyber-attacks, intrusions, and unusual or unauthorized activity targeting applications, and investigate security alerts.
+-	Plan and carry out security measures in response to cybersecurity events and incidents in accordance with the organization's incident response plan, including application-layer incident response.
+-	Document and maintain security policies, procedures, secure coding guidelines, and emergency response tests; report on application security metrics and risk to senior management.
+-	Develop and deliver secure-coding and security-awareness training to developers and staff, and mentor junior security analysts.
+-	Performed more than 200 security assessments of internal applications and third-party vendor solutions, including manual and automated pentesting of web, mobile, and API-based systems, in alignment with OWASP and RBC security standards.
+-	Evaluated external vendors during onboarding by reviewing security documentation and technical implementations and provided clear remediation guidance to improve overall security posture.
+-	Designed and implemented custom AI-driven agents to automate penetration testing workflows, including vulnerability discovery, exploitation support, and result validation; developed, tuned, and maintained scanning templates to improve detection accuracy and reduce false positives.
+-	Managed the Vulnerability Management database (VMG), performing continuous triage, validation, and lifecycle tracking of findings; conducted comprehensive audits of legacy vulnerability reports, executed retesting, and performed in-depth vulnerability reviews; eliminated ~50% of findings as duplicates, contributed to remediation of ~30% of identified vulnerabilities, and re-assessed ~20% of issues with adjusted technical severity (CVSS) based on accurate risk evaluation; collaborated with application teams to define and implement effective mitigation strategies and secure remediation approaches.
+
+
+### Offensive Security Specialist  
+**Cyberoo UA**  
+_02/2024 – 05/2025_
+
+-	Perform advanced penetration testing across diverse environments, identifying and mitigating 4,000+ critical vulnerabilities, reducing organizational risk by 75%.  
+-	Implement security hardening measures based on findings, achieving a 40% reduction in attack surfaces across critical infrastructure.
+-	Conducting web application penetration testing and security assessments.
+-	Performing vulnerability assessments of web applications, APIs, and authentication mechanisms.
+-	Identifying security vulnerabilities including Cross-Site Scripting (XSS), SQL
+-	Injection, access control issues, and security misconfigurations.
+-	Analyzing HTTP requests, session handling mechanisms, and authentication flows to identify potential security risks.
+-	Preparing technical security reports describing identified vulnerabilities and recommended remediation measures.
+-	Providing security consulting and guidance to development teams regarding mitigation of vulnerabilities and secure coding practices.
+-	Reviewing application architectures and configurations to identify potential security weaknesses.
+-	Assisting with security testing of client systems and applications in accordance with industry best practices and OWASP
+
 
 ### Penetration Tester  
-**H-X Technologies, (remote)**  
+**H-X Technologies**  
 _12/2020 – 11/2023_
 
 - Conducted over 100 penetration tests on corporate networks and applications, identifying and mitigating 5000+ critical vulnerabilities, reducing overall risk exposure by 60%.
@@ -93,7 +123,7 @@ _12/2020 – 11/2023_
 - Delivered comprehensive security reports with detailed remediation steps, improving patching speed by 50%.
 
 ### Cyber Security Analyst  
-**TechCom Services, (remote)**  
+**TechCom Services)**  
 _01/2014 – 12/2020_
 
 - Led the execution of over 50 security audits, achieving 100% compliance with standards such as ISO 27001 and GDPR.
