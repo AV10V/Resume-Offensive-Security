@@ -78,8 +78,7 @@ Expertise:
 ## Professional Experience
 
 ### Senior Application Security Analyst 
-**Royal Bank of Canada**
-_05/2025 - current_
+**Royal Bank of Canada** _05/2025 - current_
 
 -	Lead and perform application security assessments of web, API, and mobile applications, including manual penetration testing, secure code review, and automated scanning (SAST, DAST, SCA, IaC), and document findings and remediation plans.
 -	Confer with development, product, and infrastructure teams to identify and document security requirements, and assess technical security risks to software, data, and systems.
@@ -98,8 +97,7 @@ _05/2025 - current_
 
 
 ### Offensive Security Specialist  
-**Cyberoo UA**  
-_02/2024 – 05/2025_
+**Cyberoo UA** _02/2024 – 05/2025_
 
 -	Perform advanced penetration testing across diverse environments, identifying and mitigating 4,000+ critical vulnerabilities, reducing organizational risk by 75%.  
 -	Implement security hardening measures based on findings, achieving a 40% reduction in attack surfaces across critical infrastructure.
@@ -115,16 +113,14 @@ _02/2024 – 05/2025_
 
 
 ### Penetration Tester  
-**H-X Technologies**  
-_12/2020 – 11/2023_
+**H-X Technologies** _12/2020 – 11/2023_
 
 - Conducted over 100 penetration tests on corporate networks and applications, identifying and mitigating 5000+ critical vulnerabilities, reducing overall risk exposure by 60%.
 - Prevented potential breaches in 30+ high-profile systems, reducing the likelihood of successful attacks by 70%.
 - Delivered comprehensive security reports with detailed remediation steps, improving patching speed by 50%.
 
 ### Cyber Security Analyst  
-**TechCom Services)**  
-_01/2014 – 12/2020_
+**TechCom Services)** _01/2014 – 12/2020_
 
 - Led the execution of over 50 security audits, achieving 100% compliance with standards such as ISO 27001 and GDPR.
 - Designed and delivered cybersecurity training programs to 1,000+ employees, reducing human error incidents by 60%.
@@ -134,8 +130,7 @@ _01/2014 – 12/2020_
 ## Education
 
 **Master of Business Administration**  
-_National Aviation University, Ukraine_  
-_09/2007 – 07/2013_
+_National Aviation University (NAU), Ukraine_  _09/2007 – 07/2013_
 
 ---
 
