@@ -1,6 +1,6 @@
 # Andrii Pavlov
 
-> Andrii Pavlov is a lead penetration tester and red team lead based in Vancouver, British Columbia, Canada, with 12+ years in cybersecurity and 6 years in offensive security. He has experience leading penetration testing teams and managing a security team (most recently at Royal Bank of Canada, and earlier at TechCom Services), and has delivered 380+ penetration tests and identified 4,000+ vulnerabilities. OSCP candidate. Open to Lead Penetration Tester, Red Team Lead and Penetration Testing Team Manager roles in Canada.
+> Andrii Pavlov is an application security and penetration testing leader based in Vancouver, British Columbia, Canada, with 12+ years in cybersecurity and 6 years in offensive security. His focus is application security: threat modeling, secure design and code review, OWASP ASVS, WSTG and MASTG testing, SAST, DAST and SCA in CI/CD, and remediation guidance for developers. He has experience leading penetration testing teams and managing a security team (most recently at Royal Bank of Canada, and earlier at TechCom Services), and has delivered 380+ penetration tests, 200+ application security assessments and identified 4,000+ vulnerabilities. Red team depth in Active Directory attack paths and MITRE ATT&CK-mapped adversary simulation. OSCP candidate. Open to Application Security Lead, Lead Penetration Tester and Penetration Testing Team Manager roles in Canada.
 
 ## Résumé
 
@@ -13,9 +13,10 @@
 
 - Current role: Senior Application Security Analyst, Royal Bank of Canada (RBC), Vancouver, BC, since June 2025; leads a penetration testing team.
 - Previous roles: Offensive Security Specialist at Cyberoo (Nov 2023 – Jun 2025); Penetration Tester at H-X Technologies (Dec 2020 – Oct 2023); Cyber Security Analyst at TechCom Services LLC (Jan 2014 – Dec 2020), where he managed a security team.
-- Volume: 380+ penetration tests, 200+ application security assessments at RBC, 80+ engagements at Cyberoo, 100+ tests at H-X Technologies, 4,000+ vulnerabilities identified, and red team exercises simulating advanced persistent threats.
+- Volume: 380+ penetration tests, 200+ application and vendor security assessments at RBC, 80+ engagements at Cyberoo, 100+ tests at H-X Technologies, 4,000+ vulnerabilities identified, and red team exercises simulating advanced persistent threats.
+- Engagement ownership: scoping and rules of engagement, test planning, QA of findings, CVSS scoring, executive reporting and retesting, end to end.
 - Outcomes: 75% reduction in client risk exposure, 40% reduction in attack surface, 100% ISO 27001 and GDPR compliance across 50+ audits, 1,000+ employees trained.
-- Specialisms: web, API, mobile (iOS/Android), network and Active Directory penetration testing; AD attack paths (BloodHound, SharpHound, Kerberoasting, AS-REP roasting, pass-the-hash, NTLM relay); C2 operations (Cobalt Strike, Brute Ratel); MITRE ATT&CK; OWASP Top 10, ASVS, WSTG, MASTG; threat modeling; CVSS risk rating.
+- Specialisms: application security; web, API and mobile (iOS/Android) penetration testing; threat modeling; secure design and code review; OWASP Top 10, ASVS, WSTG, MASTG; SAST, DAST and SCA in CI/CD; WAF tuning; identity and access control testing (OAuth 2.0, OIDC, JWT, SAML, IDOR/BOLA); CVSS risk rating and remediation validation. Depth in network penetration testing and Active Directory red teaming (BloodHound, SharpHound, Kerberoasting, AS-REP roasting, pass-the-hash, NTLM relay, Cobalt Strike, Brute Ratel, MITRE ATT&CK).
 - Certifications: OSCP (candidate, exam scheduled), Cisco Ethical Hacker, ISC2 Certified in Cybersecurity (CC), TCM Security practical certifications (API hacking, ethical hacking, malware analysis and triage, bug bounty, mobile app penetration testing), Cybrary Offensive Penetration Testing, LinkedIn Learning NIST RMF.
 - Education: Master of Business Administration, National Aviation University, Kyiv, Ukraine, 2007–2013.
 - Contact: pavlov.andrii@gmail.com, +1 587 896 8118, Vancouver, BC, Canada.

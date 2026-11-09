@@ -1,11 +1,11 @@
 ---
-title: "Lead Penetration Tester · Red Team Lead · Vancouver, BC"
-description: "Andrii Pavlov is a Vancouver, BC-based lead penetration tester and red team lead with 12+ years in cybersecurity and 6 years in offensive security: 380+ penetration tests, 200+ application security assessments at RBC, 4,000+ vulnerabilities identified, and leadership of penetration testing and security teams. OSCP candidate."
+title: "Application Security Lead · Lead Penetration Tester · Vancouver, BC"
+description: "Andrii Pavlov is a Vancouver, BC-based application security and penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security: 380+ penetration tests, 200+ application security assessments at RBC, 4,000+ vulnerabilities identified, and experience leading penetration testing teams. OSCP candidate."
 ---
 
-# Andrii Pavlov — Lead Penetration Tester, Red Team Lead
+# Andrii Pavlov — Application Security Lead, Lead Penetration Tester
 
-**Penetration Testing Team Manager · Application Security · Active Directory Red Team · Vancouver, BC, Canada**
+**Application Security · Penetration Testing Team Manager · Red Team Depth · Vancouver, BC, Canada**
 
 Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gmail.com](mailto:pavlov.andrii@gmail.com) · [linkedin.com/in/av10v](https://www.linkedin.com/in/av10v/) · [github.com/AV10V](https://github.com/AV10V)
 
@@ -17,11 +17,11 @@ Open to on-site or hybrid roles in Metro Vancouver and fully remote roles across
 
 ## Professional Summary
 
-Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I have experience leading penetration testing teams and managing a security team. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients.
+Application security leader with 12+ years in cybersecurity and 6 years in offensive security. I have experience leading penetration testing teams and managing a security team. Delivered 380+ tests across web, API, mobile and network environments for a top-five Canadian bank and enterprise consulting clients, including 200+ application and vendor assessments at RBC.
 
-Hands-on red team work covers Active Directory attack paths (BloodHound, SharpHound, Kerberoasting, pass-the-hash, NTLM relay) and command-and-control operations with Cobalt Strike and Brute Ratel, all mapped to MITRE ATT&CK. I own engagements end to end: scoping and rules of engagement, threat modeling, testing, QA, CVSS scoring, executive reporting and retesting.
+My focus is application security: threat modeling, secure design and code review, OWASP ASVS, WSTG and MASTG testing, SAST, DAST and SCA coverage in CI/CD, and remediation guidance developers can act on. I own engagements end to end: scoping and rules of engagement, testing, QA, CVSS scoring, executive reporting and retesting. Red team depth in Active Directory attack paths (BloodHound, SharpHound, Kerberoasting, pass-the-hash, NTLM relay) and MITRE ATT&CK-mapped adversary simulation supports that work.
 
-Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in Canada.
+Seeking an Application Security Lead, Lead Penetration Tester or Pentest Team Manager role in Canada.
 
 ## At a Glance
 
@@ -31,26 +31,28 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 - **80+** consulting engagements at Cyberoo, **100+** penetration tests at H-X Technologies
 - **4,000+** vulnerabilities identified and validated; **75%** reduction in client risk exposure
 - **40%** reduction in attack surface through post-test hardening
-- Red team exercises simulating advanced persistent threats, mapped to MITRE ATT&CK
+- Application security: threat modeling, secure code review, OWASP ASVS / WSTG / MASTG, SAST / DAST / SCA in CI/CD
 - Team leadership: experience leading penetration testing teams; managed a security team at TechCom Services
 - **OSCP candidate** — exam scheduled, lab and exam preparation complete
 
 ## Core Competencies
 
-- **Penetration Testing** — Web Application, API, Mobile (iOS / Android), Network, Active Directory, Cloud (AWS, Azure), Internal and External
-- **Red Team & Adversary Simulation** — Active Directory Attack Paths, Kerberoasting, AS-REP Roasting, Pass-the-Hash, NTLM Relay, Credential Dumping, Lateral Movement, Privilege Escalation, C2 Infrastructure, MITRE ATT&CK, Detection Validation, Purple Team Exercises
+- **Application Security** — OWASP Top 10, ASVS, WSTG, MASTG, PTES, Threat Modeling, Secure Design and Code Review, SSDLC, SAST / DAST / SCA / IaC Scanning, WAF Tuning, CI/CD Security, Remediation Guidance
+- **Penetration Testing** — Web Application, API, Mobile (iOS / Android), Network, Cloud (AWS, Azure), Internal and External
 - **Program Leadership** — Engagement Scoping, Rules of Engagement, Test Planning, QA of Findings, CVSS Risk Rating, KPIs, Executive Reporting, Stakeholder Communication, Remediation Validation and Retesting, Team Leadership and Mentoring
-- **Application Security** — OWASP Top 10, ASVS, WSTG, MASTG, PTES, Secure Code Review, SSDLC, Threat Modeling, SAST / DAST / SCA / IaC Scanning, WAF Tuning, CI/CD Security
+- **Red Team & Adversary Simulation** — Active Directory Attack Paths, Kerberoasting, AS-REP Roasting, Pass-the-Hash, NTLM Relay, Credential Dumping, Lateral Movement, Privilege Escalation, C2 Infrastructure, MITRE ATT&CK, Detection Validation, Purple Team Exercises
 - **Identity & Access** — IAM, OAuth 2.0, OIDC, JWT, SAML, SSO, MFA, Least Privilege, Access Control Testing (IDOR / BOLA)
 - **Governance & Compliance** — ISO/IEC 27001, PCI DSS, SOC 2, NIST CSF and NIST 800-53, GDPR, SOX, FISMA, CIS Controls, Risk Management
 
 ## Technical Skills
 
-**Offensive Security Tooling** — Burp Suite Professional, Metasploit, Nmap, Rustscan, SQLmap, Nikto, Nuclei, Wireshark, Impacket, Mimikatz, BloodHound, SharpHound, Cobalt Strike, Brute Ratel, Ghidra, IDA Pro
+**Application Security & Web Testing** — Burp Suite Professional, OWASP ZAP, Postman, SQLmap, Nuclei, Nikto, Wireshark, Ghidra, IDA Pro
 
-**Mobile Application Testing** — Objection, Frida, MobSF, Apktool, Android Studio, Xcode, Postman
+**Mobile Application Testing** — Objection, Frida, MobSF, Apktool, Android Studio, Xcode
 
 **Vulnerability Management & AppSec Platforms** — Tenable Nessus, Qualys, OpenVAS, Acunetix, OWASP ZAP, SonarQube (SAST), DAST, SCA, IaC scanning, CVSS scoring, risk rating, retesting
+
+**Red Team & Active Directory Tooling** — Metasploit, Nmap, Rustscan, Impacket, Mimikatz, BloodHound, SharpHound, Cobalt Strike, Brute Ratel
 
 **Cloud & Operating Systems** — AWS, Microsoft Azure; Windows Server 2019/2022, Windows Active Directory, Linux (Ubuntu, CentOS, Kali, BlackArch), Unix (AIX, Solaris), macOS
 
@@ -81,22 +83,22 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 
 - Delivered 80+ advanced penetration tests across web, API, mobile and network environments, surfacing 4,000+ vulnerabilities and cutting client risk exposure by 75%.
 - Owned all 80+ engagements end to end: scoping calls, rules of engagement, execution, client debriefs, report QA and remediation walkthroughs.
+- Exploited 6+ vulnerability classes (XSS, SQL injection, IDOR/BOLA, SSRF, auth flaws, misconfigurations), tracing HTTP requests, sessions and auth flows.
+- Authored 80+ technical and executive reports with CVSS-rated remediation guidance; advised developers on secure coding.
+- Hardened client environments after each test, achieving a 40% reduction in attack surface across critical infrastructure.
 - Chained 5 Active Directory techniques with BloodHound and SharpHound (Kerberoasting, AS-REP, pass-the-hash, NTLM relay, credential dumping) to Domain Admin.
 - Operated C2 infrastructure (Cobalt Strike, Brute Ratel) on ATT&CK-mapped red team engagements and helped blue teams validate detection.
-- Exploited 6+ vulnerability classes (XSS, SQL injection, IDOR/BOLA, SSRF, auth flaws, misconfigurations), tracing HTTP requests, sessions and auth flows.
-- Hardened client environments after each test, achieving a 40% reduction in attack surface across critical infrastructure.
-- Authored 80+ technical and executive reports with CVSS-rated remediation guidance; advised developers on secure coding.
 - Coached junior testers on methodology and reporting, speeding issue identification and remediation by 30%.
 
 ### Penetration Tester — H-X Technologies
 
 *Remote · 12/2020 – 10/2023*
 
+- Tested 100+ corporate networks and applications, identifying and helping remediate 5,000+ vulnerabilities and cutting risk exposure by 60%.
+- Wrote remediation-focused security reports that sped developer patching by 50%.
 - Led red team exercises end to end, simulating advanced persistent threats across Active Directory and raising client detection by 40%.
-- Ran 100+ penetration tests on corporate networks and applications, identifying and helping remediate 5,000+ vulnerabilities and cutting risk exposure by 60%.
 - Built C2 infrastructure and chained Kerberoasting, AS-REP, pass-the-hash and NTLM relay to prove domain compromise, mapped to MITRE ATT&CK.
 - Protected 30 high-profile systems against likely breach paths, reducing the likelihood of successful attacks by 70%.
-- Wrote remediation-focused security reports that sped developer patching by 50%.
 - Mentored junior testers on 4 core tools (Burp Suite, Metasploit, Nmap, Impacket) and on report writing standards.
 
 ### Cyber Security Analyst — TechCom Services LLC
@@ -126,4 +128,4 @@ National Aviation University — Kyiv, Ukraine · 09/2007 – 07/2013
 
 ---
 
-*Keywords: penetration testing, red team, Active Directory, BloodHound, Kerberoasting, Cobalt Strike, MITRE ATT&CK, OWASP Top 10, API security, mobile application security, application security, threat modeling, CVSS, vulnerability management, ISO 27001, PCI DSS, NIST, Vancouver, British Columbia, Canada.*
+*Keywords: application security, application security lead, penetration testing, OWASP Top 10, OWASP ASVS, OWASP WSTG, threat modeling, secure code review, SAST, DAST, SCA, CI/CD security, API security, mobile application security, IDOR, BOLA, CVSS, vulnerability management, red team, Active Directory, BloodHound, MITRE ATT&CK, ISO 27001, PCI DSS, NIST, Vancouver, British Columbia, Canada.*
