@@ -8,7 +8,7 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 
 [DOCX](https://av10v.github.io/Resume-Offensive-Security/Andrii_Pavlov_Resume.docx) · [ATS plain text](https://av10v.github.io/Resume-Offensive-Security/andrii-pavlov-resume-ats.txt) · [llms.txt](https://av10v.github.io/Resume-Offensive-Security/llms.txt) · [Full plain text](https://av10v.github.io/Resume-Offensive-Security/llms-full.txt)
 
-> Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I lead a penetration testing team today and previously managed a security team. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients. Hands-on red team work covers Active Directory attack paths (BloodHound, SharpHound, Kerberoasting, pass-the-hash, NTLM relay) and command-and-control operations with Cobalt Strike and Brute Ratel, all mapped to MITRE ATT&CK. I own engagements end to end: scoping and rules of engagement, threat modeling, testing, QA, CVSS scoring, executive reporting and retesting. Seeking a Lead Pentester, Red Team Lead or Pentest Team Manager role in Canada.
+> Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I currently lead a penetration testing team, and earlier in my career I managed a security team. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients. Hands-on red team work covers Active Directory attack paths (BloodHound, SharpHound, Kerberoasting, pass-the-hash, NTLM relay) and command-and-control operations with Cobalt Strike and Brute Ratel, all mapped to MITRE ATT&CK. I own engagements end to end: scoping and rules of engagement, threat modeling, testing, QA, CVSS scoring, executive reporting and retesting. Seeking a Lead Pentester, Red Team Lead or Pentest Team Manager role in Canada.
 
 ## At a Glance
 
@@ -17,8 +17,8 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 - 200+ application security assessments for a top-five Canadian bank (RBC)
 - 80+ consulting engagements at Cyberoo; 100+ penetration tests at H-X Technologies
 - 4,000+ vulnerabilities identified; 75% reduction in client risk exposure; 40% reduction in attack surface
-- 10 red team exercises mapped to MITRE ATT&CK
-- Penetration testing team led today; security team managed at TechCom Services
+- Red team exercises simulating advanced persistent threats, mapped to MITRE ATT&CK
+- Currently leading a penetration testing team; previously managed a security team at TechCom Services
 - OSCP candidate — exam scheduled, lab and exam preparation complete
 
 ## Professional Experience
@@ -34,7 +34,7 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 - Tune Akamai and Palo Alto WAF rules and SAST/DAST detections, validating all controls against the OWASP Top 10.
 - Triage the VMG vulnerability queue: cut ~50% of findings as duplicates, supported remediation of ~30% and re-rated ~20% after technical review.
 - Designed AI agents that automate 3 pentest stages (discovery, exploitation support and validation) plus scanning templates that cut false positives.
-- Mentor a penetration testing team, set report quality standards and brief senior management on risk, KPIs and remediation status.
+- Set report quality standards, track KPIs and brief senior management on risk and remediation status.
 
 ### Offensive Security Specialist — Cyberoo
 
@@ -53,9 +53,9 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 
 *Remote · 12/2020 – 10/2023*
 
-- Led 10 red team exercises end to end, simulating advanced persistent threats across Active Directory and raising client detection by 40%.
+- Led red team exercises end to end, simulating advanced persistent threats across Active Directory and raising client detection by 40%.
 - Ran 100+ penetration tests on corporate networks and applications, identifying and helping remediate 5,000+ vulnerabilities and cutting risk exposure by 60%.
-- Built C2 infrastructure and chained Kerberoasting, AS-REP, pass-the-hash and NTLM relay across 10 exercises to prove domain compromise, mapped to MITRE ATT&CK.
+- Built C2 infrastructure and chained Kerberoasting, AS-REP, pass-the-hash and NTLM relay to prove domain compromise, mapped to MITRE ATT&CK.
 - Protected 30 high-profile systems against likely breach paths, reducing the likelihood of successful attacks by 70%.
 - Wrote remediation-focused security reports that sped developer patching by 50%.
 - Mentored junior testers on 4 core tools (Burp Suite, Metasploit, Nmap, Impacket) and on report writing standards.

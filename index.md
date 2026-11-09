@@ -17,7 +17,7 @@ Open to on-site or hybrid roles in Metro Vancouver and fully remote roles across
 
 ## Professional Summary
 
-Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I lead a penetration testing team today and previously managed a security team. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients.
+Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I currently lead a penetration testing team, and earlier in my career I managed a security team. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients.
 
 Hands-on red team work covers Active Directory attack paths (BloodHound, SharpHound, Kerberoasting, pass-the-hash, NTLM relay) and command-and-control operations with Cobalt Strike and Brute Ratel, all mapped to MITRE ATT&CK. I own engagements end to end: scoping and rules of engagement, threat modeling, testing, QA, CVSS scoring, executive reporting and retesting.
 
@@ -31,8 +31,8 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 - **80+** consulting engagements at Cyberoo, **100+** penetration tests at H-X Technologies
 - **4,000+** vulnerabilities identified and validated; **75%** reduction in client risk exposure
 - **40%** reduction in attack surface through post-test hardening
-- **10** red team exercises simulating advanced persistent threats
-- Team leadership: penetration testing team led today; security team managed at TechCom Services
+- Red team exercises simulating advanced persistent threats, mapped to MITRE ATT&CK
+- Team leadership: currently leading a penetration testing team; previously managed a security team at TechCom Services
 - **OSCP candidate** — exam scheduled, lab and exam preparation complete
 
 ## Core Competencies
@@ -73,7 +73,7 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 - Tune Akamai and Palo Alto WAF rules and SAST/DAST detections, validating all controls against the OWASP Top 10.
 - Triage the VMG vulnerability queue: cut ~50% of findings as duplicates, supported remediation of ~30% and re-rated ~20% after technical review.
 - Designed AI agents that automate 3 pentest stages (discovery, exploitation support and validation) plus scanning templates that cut false positives.
-- Mentor a penetration testing team, set report quality standards and brief senior management on risk, KPIs and remediation status.
+- Set report quality standards, track KPIs and brief senior management on risk and remediation status.
 
 ### Offensive Security Specialist — Cyberoo
 
@@ -92,9 +92,9 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 
 *Remote · 12/2020 – 10/2023*
 
-- Led 10 red team exercises end to end, simulating advanced persistent threats across Active Directory and raising client detection by 40%.
+- Led red team exercises end to end, simulating advanced persistent threats across Active Directory and raising client detection by 40%.
 - Ran 100+ penetration tests on corporate networks and applications, identifying and helping remediate 5,000+ vulnerabilities and cutting risk exposure by 60%.
-- Built C2 infrastructure and chained Kerberoasting, AS-REP, pass-the-hash and NTLM relay across 10 exercises to prove domain compromise, mapped to MITRE ATT&CK.
+- Built C2 infrastructure and chained Kerberoasting, AS-REP, pass-the-hash and NTLM relay to prove domain compromise, mapped to MITRE ATT&CK.
 - Protected 30 high-profile systems against likely breach paths, reducing the likelihood of successful attacks by 70%.
 - Wrote remediation-focused security reports that sped developer patching by 50%.
 - Mentored junior testers on 4 core tools (Burp Suite, Metasploit, Nmap, Impacket) and on report writing standards.
