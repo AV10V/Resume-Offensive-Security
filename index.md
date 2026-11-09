@@ -5,7 +5,7 @@ description: "Andrii Pavlov is a Vancouver, BC-based penetration tester with 12+
 
 # Andrii Pavlov — Application, Web & Mobile Penetration Tester
 
-**Web & API · Mobile (iOS / Android) · Internal Infrastructure · Penetration Testing Team Lead · Vancouver, BC**
+**Web & API · Mobile (iOS / Android) · Internal Infrastructure · Penetration Testing Team Leadership · Vancouver, BC**
 
 Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gmail.com](mailto:pavlov.andrii@gmail.com) · [linkedin.com/in/av10v](https://www.linkedin.com/in/av10v/) · [github.com/AV10V](https://github.com/AV10V)
 

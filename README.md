@@ -1,6 +1,6 @@
 # Andrii Pavlov — Application, Web & Mobile Penetration Tester
 
-**Application & Web Penetration Tester  |  Mobile (iOS / Android)  |  Internal Infrastructure**
+**Application, Web & Mobile Penetration Tester (iOS / Android)  |  Internal Infrastructure**
 
 Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gmail.com](mailto:pavlov.andrii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/av10v/) · [GitHub](https://github.com/AV10V)
 

@@ -2,7 +2,7 @@
 
 > Application, web and mobile penetration tester with internal infrastructure experience, based in Vancouver, BC, Canada. Source: https://av10v.github.io/Resume-Offensive-Security/
 
-Application & Web Penetration Tester  |  Mobile (iOS / Android)  |  Internal Infrastructure
+Application, Web & Mobile Penetration Tester (iOS / Android)  |  Internal Infrastructure
 
 Vancouver, BC, Canada  |  (587) 896-8118  |  pavlov.andrii@gmail.com
 linkedin.com/in/av10v  |  github.com/AV10V
