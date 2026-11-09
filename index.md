@@ -1,6 +1,6 @@
 ---
 title: "Lead Penetration Tester · Red Team Lead · Vancouver, BC"
-description: "Andrii Pavlov is a Vancouver, BC-based lead penetration tester and red team lead with 12+ years in cybersecurity and 6 years in offensive security: 380+ penetration tests, 200+ application security assessments at RBC, 4,000+ vulnerabilities identified, and leadership of 3- to 10-person security teams. OSCP candidate."
+description: "Andrii Pavlov is a Vancouver, BC-based lead penetration tester and red team lead with 12+ years in cybersecurity and 6 years in offensive security: 380+ penetration tests, 200+ application security assessments at RBC, 4,000+ vulnerabilities identified, and leadership of penetration testing and security teams. OSCP candidate."
 ---
 
 # Andrii Pavlov — Lead Penetration Tester, Red Team Lead
@@ -17,7 +17,7 @@ Open to on-site or hybrid roles in Metro Vancouver and fully remote roles across
 
 ## Professional Summary
 
-Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I lead a 3-person penetration testing team today and previously managed a team of 10 security staff. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients.
+Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I lead a penetration testing team today and previously managed a security team. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients.
 
 Hands-on red team work covers Active Directory attack paths (BloodHound, SharpHound, Kerberoasting, pass-the-hash, NTLM relay) and command-and-control operations with Cobalt Strike and Brute Ratel, all mapped to MITRE ATT&CK. I own engagements end to end: scoping and rules of engagement, threat modeling, testing, QA, CVSS scoring, executive reporting and retesting.
 
@@ -32,14 +32,14 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 - **4,000+** vulnerabilities identified and validated; **75%** reduction in client risk exposure
 - **40%** reduction in attack surface through post-test hardening
 - **10** red team exercises simulating advanced persistent threats
-- Team leadership: **3-person** pentest team led today; **10-person** security team managed at TechCom Services
+- Team leadership: penetration testing team led today; security team managed at TechCom Services
 - **OSCP candidate** — exam scheduled, lab and exam preparation complete
 
 ## Core Competencies
 
 - **Penetration Testing** — Web Application, API, Mobile (iOS / Android), Network, Active Directory, Cloud (AWS, Azure), Internal and External
 - **Red Team & Adversary Simulation** — Active Directory Attack Paths, Kerberoasting, AS-REP Roasting, Pass-the-Hash, NTLM Relay, Credential Dumping, Lateral Movement, Privilege Escalation, C2 Infrastructure, MITRE ATT&CK, Detection Validation, Purple Team Exercises
-- **Program Leadership** — Engagement Scoping, Rules of Engagement, Test Planning, QA of Findings, CVSS Risk Rating, KPIs, Executive Reporting, Stakeholder Communication, Remediation Validation and Retesting, Team Leadership and Mentoring (3–10-person teams)
+- **Program Leadership** — Engagement Scoping, Rules of Engagement, Test Planning, QA of Findings, CVSS Risk Rating, KPIs, Executive Reporting, Stakeholder Communication, Remediation Validation and Retesting, Team Leadership and Mentoring
 - **Application Security** — OWASP Top 10, ASVS, WSTG, MASTG, PTES, Secure Code Review, SSDLC, Threat Modeling, SAST / DAST / SCA / IaC Scanning, WAF Tuning, CI/CD Security
 - **Identity & Access** — IAM, OAuth 2.0, OIDC, JWT, SAML, SSO, MFA, Least Privilege, Access Control Testing (IDOR / BOLA)
 - **Governance & Compliance** — ISO/IEC 27001, PCI DSS, SOC 2, NIST CSF and NIST 800-53, GDPR, SOX, FISMA, CIS Controls, Risk Management
@@ -73,7 +73,7 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 - Tune Akamai and Palo Alto WAF rules and SAST/DAST detections, validating all controls against the OWASP Top 10.
 - Triage the VMG vulnerability queue: cut ~50% of findings as duplicates, supported remediation of ~30% and re-rated ~20% after technical review.
 - Designed AI agents that automate 3 pentest stages (discovery, exploitation support and validation) plus scanning templates that cut false positives.
-- Mentor a 3-person penetration testing team, set report quality standards and brief senior management on risk, KPIs and remediation status.
+- Mentor a penetration testing team, set report quality standards and brief senior management on risk, KPIs and remediation status.
 
 ### Offensive Security Specialist — Cyberoo
 
@@ -103,7 +103,7 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 
 *Remote · 01/2014 – 12/2020*
 
-- Managed a team of 10 security staff, setting priorities, mentoring team members and owning team delivery.
+- Managed a security team, setting priorities, mentoring team members and owning team delivery.
 - Secured 500+ corporate systems and applications, reducing successful attacks by 70% over three years.
 - Drove remediation of 3,000+ vulnerabilities, halving the time to resolve critical issues.
 - Deployed a monitoring system that cut incident response time by 40%.
