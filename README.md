@@ -1,6 +1,6 @@
-# Andrii Pavlov — Application Security Lead & Lead Penetration Tester
+# Andrii Pavlov — Application, Web & Mobile Penetration Tester
 
-**Application Security Lead  |  Lead Penetration Tester  |  Penetration Testing Team Manager**
+**Application & Web Penetration Tester  |  Mobile (iOS / Android)  |  Internal Infrastructure**
 
 Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gmail.com](mailto:pavlov.andrii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/av10v/) · [GitHub](https://github.com/AV10V)
 
@@ -8,7 +8,7 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 
 [DOCX](https://av10v.github.io/Resume-Offensive-Security/Andrii_Pavlov_Resume.docx) · [ATS plain text](https://av10v.github.io/Resume-Offensive-Security/andrii-pavlov-resume-ats.txt) · [llms.txt](https://av10v.github.io/Resume-Offensive-Security/llms.txt) · [Full plain text](https://av10v.github.io/Resume-Offensive-Security/llms-full.txt)
 
-> Application security leader with 12+ years in cybersecurity and 6 years in offensive security. I have experience leading penetration testing teams and managing a security team. Delivered 380+ tests across web, API, mobile and network environments for a top-five Canadian bank and enterprise consulting clients, including 200+ application and vendor assessments at RBC. My focus is application security: threat modeling, secure design and code review, OWASP ASVS, WSTG and MASTG testing, SAST, DAST and SCA coverage in CI/CD, and remediation guidance developers can act on. I own engagements end to end: scoping and rules of engagement, testing, QA, CVSS scoring, executive reporting and retesting. Seeking an Application Security Lead, Lead Penetration Tester or Penetration Testing Team Manager role in Canada.
+> Penetration tester with 12+ years in cybersecurity and 6 years in offensive security, with experience leading penetration testing teams and managing a security team. I test applications and web platforms, mobile apps on iOS and Android, and internal infrastructure: 380+ engagements for a top-five Canadian bank and enterprise consulting clients, including 200+ application and vendor assessments at RBC. Web and API work follows OWASP Top 10, ASVS and WSTG; mobile work follows MASTG on both platforms; internal work covers Active Directory, Windows and Linux hosts, network services and privilege escalation paths. I own engagements end to end: scoping and rules of engagement, threat modeling, testing, QA, CVSS scoring, executive reporting and retesting. Seeking a Penetration Tester, Application Security or Penetration Testing Team Lead role in Canada.
 
 ## At a Glance
 
@@ -17,7 +17,7 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 - 200+ application security assessments for a top-five Canadian bank (RBC)
 - 80+ consulting engagements at Cyberoo; 100+ penetration tests at H-X Technologies
 - 4,000+ vulnerabilities identified; 75% reduction in client risk exposure; 40% reduction in attack surface
-- Application security focus: threat modeling, secure code review, OWASP ASVS / WSTG / MASTG, SAST / DAST / SCA in CI/CD; red team depth mapped to MITRE ATT&CK
+- Three testing domains: web and API, mobile iOS and Android (MASTG), and internal infrastructure (Active Directory, Windows, Linux)
 - Experience leading penetration testing teams and managing a security team (TechCom Services, 2014-2020)
 - OSCP candidate — exam scheduled, lab and exam preparation complete
 
@@ -27,7 +27,8 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 
 *Vancouver, BC · 06/2025 – Present*
 
-- Lead 200+ penetration tests across web, API, mobile and vendor applications, applying OWASP ASVS, WSTG and RBC security standards.
+- Lead 200+ penetration tests across web applications, APIs, iOS and Android apps and vendor products, applying OWASP ASVS, WSTG and MASTG.
+- Assess iOS and Android builds across the 200+ application portfolio with MobSF, Frida and Objection: insecure data storage, TLS and certificate pinning, jailbreak and root detection, deep links and Keychain / Keystore handling.
 - Scope all 200+ engagements: rules of engagement, methodology, test plan and CVSS ratings, with QA on every finding.
 - Model threats and risks across a 200+ application portfolio, prioritizing fixes by business impact with development, product and infrastructure teams.
 - Test IAM, OAuth 2.0, OIDC, JWT, SAML and SSO controls, and verify least-privilege access across the application portfolio.
@@ -43,6 +44,7 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 - Delivered 80+ advanced penetration tests across web, API, mobile and network environments, surfacing 4,000+ vulnerabilities and cutting client risk exposure by 75%.
 - Owned all 80+ engagements end to end: scoping calls, rules of engagement, execution, client debriefs, report QA and remediation walkthroughs.
 - Exploited 6+ vulnerability classes (XSS, SQL injection, IDOR/BOLA, SSRF, auth flaws, misconfigurations), tracing HTTP requests, sessions and auth flows.
+- Ran internal infrastructure testing on Windows and Linux estates across 80+ engagements: service enumeration, local and domain privilege escalation, credential reuse and pivoting between segments.
 - Authored 80+ technical and executive reports with CVSS-rated remediation guidance; advised developers on secure coding.
 - Hardened client environments after each test, achieving a 40% reduction in attack surface across critical infrastructure.
 - Chained 5 Active Directory techniques with BloodHound and SharpHound (Kerberoasting, AS-REP, pass-the-hash, NTLM relay, credential dumping) to Domain Admin.
@@ -73,8 +75,10 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 
 ## Core Competencies
 
-- **Application Security** — OWASP Top 10, ASVS, WSTG, MASTG, PTES, Threat Modeling, Secure Design and Code Review, SSDLC, SAST / DAST / SCA / IaC Scanning, WAF Tuning, CI/CD Security, Remediation Guidance
-- **Penetration Testing** — Web Application, API, Mobile (iOS / Android), Network, Cloud (AWS, Azure), Internal and External
+- **Application & Web Penetration Testing** — Web Applications, Single-Page Apps, REST / GraphQL APIs, OWASP Top 10, ASVS, WSTG, PTES, Business Logic Flaws, Access Control (IDOR / BOLA), Authentication and Session Management, Injection Classes, File Upload, Server-Side Request Forgery
+- **Mobile Penetration Testing (iOS / Android)** — MASTG, MASVS, OWASP Mobile Top 10, Insecure Data Storage, TLS / Certificate Pinning Bypass, Jailbreak and Root Detection Bypass, Reverse Engineering and Decompilation, IPC and Deep Link Testing, Biometric and Keychain / Keystore Controls
+- **Internal Infrastructure Penetration Testing** — Internal Network and Active Directory, Windows and Linux Hosts, Service and Protocol Enumeration, Local and Domain Privilege Escalation, Lateral Movement, Pivoting and Tunneling, Password Attacks, Segmentation and Egress Testing
+- **Application Security Engineering** — Threat Modeling, Secure Design and Code Review, SSDLC, SAST / DAST / SCA / IaC Scanning, WAF Tuning, CI/CD Security, Remediation Guidance
 - **Program Leadership** — Engagement Scoping, Rules of Engagement, Test Planning, QA of Findings, CVSS Risk Rating, KPIs, Executive Reporting, Stakeholder Communication, Remediation Validation and Retesting, Team Leadership and Mentoring
 - **Identity & Access** — IAM, OAuth 2.0, OIDC, JWT, SAML, SSO, MFA, Least Privilege, Access Control Testing (IDOR / BOLA)
 - **Governance & Compliance** — ISO/IEC 27001, PCI DSS, SOC 2, NIST CSF and NIST 800-53, GDPR, SOX, FISMA, CIS Controls, Risk Management
