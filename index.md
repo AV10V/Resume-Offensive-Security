@@ -17,7 +17,7 @@ Open to on-site or hybrid roles in Metro Vancouver and fully remote roles across
 
 ## Professional Summary
 
-Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I currently lead a penetration testing team, and earlier in my career I managed a security team. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients.
+Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I have experience leading penetration testing teams and managing a security team. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients.
 
 Hands-on red team work covers Active Directory attack paths (BloodHound, SharpHound, Kerberoasting, pass-the-hash, NTLM relay) and command-and-control operations with Cobalt Strike and Brute Ratel, all mapped to MITRE ATT&CK. I own engagements end to end: scoping and rules of engagement, threat modeling, testing, QA, CVSS scoring, executive reporting and retesting.
 
@@ -32,7 +32,7 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 - **4,000+** vulnerabilities identified and validated; **75%** reduction in client risk exposure
 - **40%** reduction in attack surface through post-test hardening
 - Red team exercises simulating advanced persistent threats, mapped to MITRE ATT&CK
-- Team leadership: currently leading a penetration testing team; previously managed a security team at TechCom Services
+- Team leadership: experience leading penetration testing teams; managed a security team at TechCom Services
 - **OSCP candidate** — exam scheduled, lab and exam preparation complete
 
 ## Core Competencies
@@ -73,7 +73,7 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 - Tune Akamai and Palo Alto WAF rules and SAST/DAST detections, validating all controls against the OWASP Top 10.
 - Triage the VMG vulnerability queue: cut ~50% of findings as duplicates, supported remediation of ~30% and re-rated ~20% after technical review.
 - Designed AI agents that automate 3 pentest stages (discovery, exploitation support and validation) plus scanning templates that cut false positives.
-- Set report quality standards, track KPIs and brief senior management on risk and remediation status.
+- Set report quality standards and track KPIs; brief senior management monthly on risk and remediation status for the 200+ application portfolio.
 
 ### Offensive Security Specialist — Cyberoo
 
@@ -103,7 +103,7 @@ Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in
 
 *Remote · 01/2014 – 12/2020*
 
-- Managed a security team, setting priorities, mentoring team members and owning team delivery.
+- Managed a security team for 7 years, setting priorities, mentoring team members and owning team delivery.
 - Secured 500+ corporate systems and applications, reducing successful attacks by 70% over three years.
 - Drove remediation of 3,000+ vulnerabilities, halving the time to resolve critical issues.
 - Deployed a monitoring system that cut incident response time by 40%.

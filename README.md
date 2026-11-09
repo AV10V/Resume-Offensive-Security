@@ -8,7 +8,7 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 
 [DOCX](https://av10v.github.io/Resume-Offensive-Security/Andrii_Pavlov_Resume.docx) · [ATS plain text](https://av10v.github.io/Resume-Offensive-Security/andrii-pavlov-resume-ats.txt) · [llms.txt](https://av10v.github.io/Resume-Offensive-Security/llms.txt) · [Full plain text](https://av10v.github.io/Resume-Offensive-Security/llms-full.txt)
 
-> Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I currently lead a penetration testing team, and earlier in my career I managed a security team. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients. Hands-on red team work covers Active Directory attack paths (BloodHound, SharpHound, Kerberoasting, pass-the-hash, NTLM relay) and command-and-control operations with Cobalt Strike and Brute Ratel, all mapped to MITRE ATT&CK. I own engagements end to end: scoping and rules of engagement, threat modeling, testing, QA, CVSS scoring, executive reporting and retesting. Seeking a Lead Pentester, Red Team Lead or Pentest Team Manager role in Canada.
+> Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I have experience leading penetration testing teams and managing a security team. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients. Hands-on red team work covers Active Directory attack paths (BloodHound, SharpHound, Kerberoasting, pass-the-hash, NTLM relay) and command-and-control operations with Cobalt Strike and Brute Ratel, all mapped to MITRE ATT&CK. I own engagements end to end: scoping and rules of engagement, threat modeling, testing, QA, CVSS scoring, executive reporting and retesting. Seeking a Lead Pentester, Red Team Lead or Pentest Team Manager role in Canada.
 
 ## At a Glance
 
@@ -18,7 +18,7 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 - 80+ consulting engagements at Cyberoo; 100+ penetration tests at H-X Technologies
 - 4,000+ vulnerabilities identified; 75% reduction in client risk exposure; 40% reduction in attack surface
 - Red team exercises simulating advanced persistent threats, mapped to MITRE ATT&CK
-- Currently leading a penetration testing team; previously managed a security team at TechCom Services
+- Experience leading penetration testing teams and managing a security team (TechCom Services, 2014-2020)
 - OSCP candidate — exam scheduled, lab and exam preparation complete
 
 ## Professional Experience
@@ -34,7 +34,7 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 - Tune Akamai and Palo Alto WAF rules and SAST/DAST detections, validating all controls against the OWASP Top 10.
 - Triage the VMG vulnerability queue: cut ~50% of findings as duplicates, supported remediation of ~30% and re-rated ~20% after technical review.
 - Designed AI agents that automate 3 pentest stages (discovery, exploitation support and validation) plus scanning templates that cut false positives.
-- Set report quality standards, track KPIs and brief senior management on risk and remediation status.
+- Set report quality standards and track KPIs; brief senior management monthly on risk and remediation status for the 200+ application portfolio.
 
 ### Offensive Security Specialist — Cyberoo
 
@@ -64,7 +64,7 @@ Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gm
 
 *Remote · 01/2014 – 12/2020*
 
-- Managed a security team, setting priorities, mentoring team members and owning team delivery.
+- Managed a security team for 7 years, setting priorities, mentoring team members and owning team delivery.
 - Secured 500+ corporate systems and applications, reducing successful attacks by 70% over three years.
 - Drove remediation of 3,000+ vulnerabilities, halving the time to resolve critical issues.
 - Deployed a monitoring system that cut incident response time by 40%.

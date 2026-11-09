@@ -1,6 +1,6 @@
 # Andrii Pavlov
 
-> Andrii Pavlov is a lead penetration tester and red team lead based in Vancouver, British Columbia, Canada, with 12+ years in cybersecurity and 6 years in offensive security. He currently leads a penetration testing team at Royal Bank of Canada (RBC), after earlier managing a security team at TechCom Services, and has delivered 380+ penetration tests and identified 4,000+ vulnerabilities. OSCP candidate. Open to Lead Penetration Tester, Red Team Lead and Penetration Testing Team Manager roles in Canada.
+> Andrii Pavlov is a lead penetration tester and red team lead based in Vancouver, British Columbia, Canada, with 12+ years in cybersecurity and 6 years in offensive security. He has experience leading penetration testing teams and managing a security team (most recently at Royal Bank of Canada, and earlier at TechCom Services), and has delivered 380+ penetration tests and identified 4,000+ vulnerabilities. OSCP candidate. Open to Lead Penetration Tester, Red Team Lead and Penetration Testing Team Manager roles in Canada.
 
 ## Résumé
 
