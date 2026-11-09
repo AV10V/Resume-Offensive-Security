@@ -1,149 +1,129 @@
-# Andrew (ANDRII) Pavlov
+---
+title: "Lead Penetration Tester | Red Team Lead | Vancouver, BC"
+description: "Andrii Pavlov is a Vancouver, BC-based lead penetration tester and red team lead with 12+ years in cybersecurity and 6 years in offensive security: 380+ penetration tests, 200+ application security assessments at RBC, 4,000+ vulnerabilities identified, and leadership of 3- to 10-person security teams. OSCP candidate."
+---
 
-**Offensive Security Specialist**
+# Andrii Pavlov — Lead Penetration Tester, Red Team Lead
 
-Vancover,BC (587)896-8118 pavlov.andrii@gmail.com [LinkedIn](https://www.linkedin.com/in/av10v/) [GitHub](https://github.com/AV10V)
+**Penetration Testing Team Manager · Application Security · Active Directory Red Team · Vancouver, BC, Canada**
+
+Vancouver, BC, Canada · [(587) 896-8118](tel:+15878968118) · [pavlov.andrii@gmail.com](mailto:pavlov.andrii@gmail.com) · [linkedin.com/in/av10v](https://www.linkedin.com/in/av10v/) · [github.com/AV10V](https://github.com/AV10V)
+
+Open to on-site or hybrid roles in Metro Vancouver and fully remote roles across Canada.
+
+[Download the résumé (DOCX)](/Resume-Offensive-Security/Andrii_Pavlov_Resume.docx) · [Plain-text ATS version](/Resume-Offensive-Security/andrii-pavlov-resume-ats.txt) · [Machine-readable summary (llms.txt)](/Resume-Offensive-Security/llms.txt)
 
 ---
 
 ## Professional Summary
 
-Cybersecurity professional with with hands-on experience in experience in **Offensive Security**, **Penetration Testing**, and **Risk Management**. Expertise in safeguarding organizational assets through effective threat detection, vulnerability exploitation, and security policy development. Adept at identifying and reporting security risks, managing security tools, and implementing best practices in offensive security.
+Penetration testing leader with 12+ years in cybersecurity and 6 years in offensive security. I lead a 3-person penetration testing team today and previously managed a team of 10 security staff. Delivered 380+ tests across web, API, mobile, Active Directory and network environments for a top-five Canadian bank and enterprise consulting clients.
 
----
+Hands-on red team work covers Active Directory attack paths (BloodHound, SharpHound, Kerberoasting, pass-the-hash, NTLM relay) and command-and-control operations with Cobalt Strike and Brute Ratel, all mapped to MITRE ATT&CK. I own engagements end to end: scoping and rules of engagement, threat modeling, testing, QA, CVSS scoring, executive reporting and retesting.
+
+Seeking a Lead Penetration Tester, Red Team Lead or Pentest Team Manager role in Canada.
+
+## At a Glance
+
+- **12+ years** in cybersecurity, **6 years** in offensive security
+- **380+** penetration tests delivered across web, API, mobile, Active Directory, cloud and network environments
+- **200+** application security assessments for a top-five Canadian bank (RBC)
+- **80+** consulting engagements at Cyberoo, **100+** penetration tests at H-X Technologies
+- **4,000+** vulnerabilities identified and validated; **75%** reduction in client risk exposure
+- **40%** reduction in attack surface through post-test hardening
+- **10** red team exercises simulating advanced persistent threats
+- Team leadership: **3-person** pentest team led today; **10-person** security team managed at TechCom Services
+- **OSCP candidate** — exam scheduled, lab and exam preparation complete
+
+## Core Competencies
+
+- **Penetration Testing** — Web Application, API, Mobile (iOS / Android), Network, Active Directory, Cloud (AWS, Azure), Internal and External
+- **Red Team & Adversary Simulation** — Active Directory Attack Paths, Kerberoasting, AS-REP Roasting, Pass-the-Hash, NTLM Relay, Credential Dumping, Lateral Movement, Privilege Escalation, C2 Infrastructure, MITRE ATT&CK, Detection Validation, Purple Team Exercises
+- **Program Leadership** — Engagement Scoping, Rules of Engagement, Test Planning, QA of Findings, CVSS Risk Rating, KPIs, Executive Reporting, Stakeholder Communication, Remediation Validation and Retesting, Team Leadership and Mentoring (3–10-person teams)
+- **Application Security** — OWASP Top 10, ASVS, WSTG, MASTG, PTES, Secure Code Review, SSDLC, Threat Modeling, SAST / DAST / SCA / IaC Scanning, WAF Tuning, CI/CD Security
+- **Identity & Access** — IAM, OAuth 2.0, OIDC, JWT, SAML, SSO, MFA, Least Privilege, Access Control Testing (IDOR / BOLA)
+- **Governance & Compliance** — ISO/IEC 27001, PCI DSS, SOC 2, NIST CSF and NIST 800-53, GDPR, SOX, FISMA, CIS Controls, Risk Management
 
 ## Technical Skills
 
-### Operating Systems:
-- Windows Server (2016, 2019, 2022)
-- Windows (10 Pro/Enterprise, 11 Pro/Enterprise, IoT Core/Enterprise)
-- Linux (Ubuntu, CentOS, Kali Linux, BlackArch Linux, Red Hat Enterprise Linux, Debian, Fedora)
-- macOS (Monterey, Ventura, Sonoma, Big Sur)
-- Virtualized and Containerized Environments (VMware ESXi, VirtualBox, Docker OS images)
+**Offensive Security Tooling** — Burp Suite Professional, Metasploit, Nmap, Rustscan, SQLmap, Nikto, Nuclei, Wireshark, Impacket, Mimikatz, BloodHound, SharpHound, Cobalt Strike, Brute Ratel, Ghidra, IDA Pro
 
-### Cloud Solutions:
-- Amazon Web Services (AWS): EC2, S3, Lambda, CloudFormation
-- Microsoft Azure: Azure Security Center, Azure AD, Azure Virtual Machines
-- Google Cloud Platform (GCP): Compute Engine, Cloud Storage
+**Mobile Application Testing** — Objection, Frida, MobSF, Apktool, Android Studio, Xcode, Postman
 
-### Scripting and Programming:
-- PowerShell (advanced scripting, task automation)
-- Python (libraries: requests, pandas, scikit-learn, socket)
-- Bash (automation and server management)
-- SQL (queries and database management)
-- JSON/YAML (configuration files and APIs)
+**Vulnerability Management & AppSec Platforms** — Tenable Nessus, Qualys, OpenVAS, Acunetix, OWASP ZAP, SonarQube (SAST), DAST, SCA, IaC scanning, CVSS scoring, risk rating, retesting
 
-### Networking Protocols:
-- SMTP, POP3, IMAP (email protocols)
-- HTTP/HTTPS (web communication)
-- DNS, DHCP (network services)
-- TCP/IP, UDP, ICMP (transport and internet protocols)
-- SNMP, Syslog (network monitoring)
-- VPN (IPSec, OpenVPN, WireGuard)
+**Cloud & Operating Systems** — AWS, Microsoft Azure; Windows Server 2019/2022, Windows Active Directory, Linux (Ubuntu, CentOS, Kali, BlackArch), Unix (AIX, Solaris), macOS
 
-### Tools and Systems:
-- Vulnerability Assessment: Qualys, Nessus, OpenVAS
-- Security Operations: Splunk, IBM QRadar
-- Penetration Testing: Acunetix, Tenable Nessus, Metasploit, Burp Suite, OWASP ZAP, Wireshark, Nmap, Nikto, Rustscan
-- EDR: CrowdStrike, Carbon Black, SentinelOne
-- Web Application Testing: Objection, Frida, Apktool, Postman, AndroidStudio, xCode, MobSF
-- Firewalls/IDS/IPS: Snort, Suricata
-- Database Security: Imperva, Oracle Database Vault
-- SIEM: IBM QRadar, Splunk
-- IAM: CyberArk, RBAC, IDaaS for SaaS, PaaS, and IaaS
+**Networking** — TCP/IP, HTTP/HTTPS, DNS, SMTP, SNMP; firewalls, IDS/IPS (Snort, Suricata)
 
-### Mobile Application Testing
-- Expertise in identifying and addressing security vulnerabilities in mobile apps (e.g., OWASP Mobile Top 10)
-- Platforms: iOS, Android
-- Tools: JADX, APKTool, Android Studio, Xcode, MobSF, ProxyMan, Burp Suite, Objection, Frida, Ghost Framework, IPAtool, SSL Kill Switch
-- Testing Types: Functional Testing, Performance Testing, Security Testing, Reverse Engineering, Usability Testing
-Expertise:
-  * Static and dynamic analysis of mobile applications to identify vulnerabilities (e.g., OWASP Mobile Top 10).
-  * API Testing with tools like Postman and Burp Suite for assessing backend communication.
-  * Secure certificate pinning bypass and SSL/TLS validation testing with tools such as Frida and SSL Kill Switch.
-  * Reverse engineering and decompiling APKs and IPA files using JADX, APKTool, and IPAtool.
-  * Penetration testing of mobile applications leveraging MobSF and Objection for vulnerability analysis and  exploitation.
-  * Network traffic interception and monitoring via ProxyMan and Burp Suite.
+**Monitoring & Infrastructure Security** — Splunk, IBM QRadar; Akamai and Palo Alto Networks WAF; Imperva, Oracle Database Vault
 
-### DevOps & Automation Tools
-- Docker, Kubernetes (containerization and orchestration)
-- Jenkins, GitLab CI/CD (automation pipelines)
-- Ansible, Terraform (infrastructure as code)
-
-### Standards and Methodologies:
-- ISO/IEC 27001, PCI-DSS, SOX, NIST, GDPR, FISMA, SOC 2, CIS Controls
-
----
+**Scripting & Collaboration** — Python, PowerShell, AI-assisted penetration testing workflow automation; Jira, Confluence, Agile / Scrum
 
 ## Professional Experience
 
-### Senior Application Security Analyst 
-**Royal Bank of Canada** _05/2025 - current_
+### Senior Application Security Analyst — Royal Bank of Canada (RBC)
 
--	Lead and perform application security assessments of web, API, and mobile applications, including manual penetration testing, secure code review, and automated scanning (SAST, DAST, SCA, IaC), and document findings and remediation plans.
--	Confer with development, product, and infrastructure teams to identify and document security requirements, and assess technical security risks to software, data, and systems.
--	Build and maintain threat models and risk assessments for new and existing applications, and prioritize vulnerabilities based on business impact.
--	Apply encryption protocols and manage cryptographic keys to ensure the security of application data at rest and in transit, including review of TLS configurations and key management practices
--	Design, configure, test, and operate application security tooling, such as WAF, SAST/DAST platforms, and automated threat detection, to ensure controls work as intended
--	Test access, authentication, and credentials for information and systems (IAM, OAuth, JWT, SSO), and ensure least-privilege access across applications.
--	Providing guidelines for preventing cyber-attacks, intrusions, and unusual or unauthorized activity targeting applications, and investigate security alerts.
--	Plan and carry out security measures in response to cybersecurity events and incidents in accordance with the organization's incident response plan, including application-layer incident response.
--	Document and maintain security policies, procedures, secure coding guidelines, and emergency response tests; report on application security metrics and risk to senior management.
--	Develop and deliver secure-coding and security-awareness training to developers and staff, and mentor junior security analysts.
--	Performed more than 200 security assessments of internal applications and third-party vendor solutions, including manual and automated pentesting of web, mobile, and API-based systems, in alignment with OWASP and RBC security standards.
--	Evaluated external vendors during onboarding by reviewing security documentation and technical implementations and provided clear remediation guidance to improve overall security posture.
--	Designed and implemented custom AI-driven agents to automate penetration testing workflows, including vulnerability discovery, exploitation support, and result validation; developed, tuned, and maintained scanning templates to improve detection accuracy and reduce false positives.
--	Managed the Vulnerability Management database (VMG), performing continuous triage, validation, and lifecycle tracking of findings; conducted comprehensive audits of legacy vulnerability reports, executed retesting, and performed in-depth vulnerability reviews; eliminated ~50% of findings as duplicates, contributed to remediation of ~30% of identified vulnerabilities, and re-assessed ~20% of issues with adjusted technical severity (CVSS) based on accurate risk evaluation; collaborated with application teams to define and implement effective mitigation strategies and secure remediation approaches.
+*Vancouver, BC · 06/2025 – Present*
 
+- Lead 200+ penetration tests across web, API, mobile and vendor applications, applying OWASP ASVS, WSTG and RBC security standards.
+- Scope all 200+ engagements: rules of engagement, methodology, test plan and CVSS ratings, with QA on every finding.
+- Model threats and risks across a 200+ application portfolio, prioritizing fixes by business impact with development, product and infrastructure teams.
+- Test IAM, OAuth 2.0, OIDC, JWT, SAML and SSO controls, and verify least-privilege access across the application portfolio.
+- Tune Akamai and Palo Alto WAF rules and SAST/DAST detections, validating all controls against the OWASP Top 10.
+- Triage the VMG vulnerability queue: cut ~50% of findings as duplicates, supported remediation of ~30% and re-rated ~20% after technical review.
+- Designed AI agents that automate 3 pentest stages (discovery, exploitation support and validation) plus scanning templates that cut false positives.
+- Mentor a 3-person penetration testing team, set report quality standards and brief senior management on risk, KPIs and remediation status.
 
-### Offensive Security Specialist  
-**Cyberoo UA** _02/2024 – 05/2025_
+### Offensive Security Specialist — Cyberoo
 
--	Perform advanced penetration testing across diverse environments, identifying and mitigating 4,000+ critical vulnerabilities, reducing organizational risk by 75%.  
--	Implement security hardening measures based on findings, achieving a 40% reduction in attack surfaces across critical infrastructure.
--	Conducting web application penetration testing and security assessments.
--	Performing vulnerability assessments of web applications, APIs, and authentication mechanisms.
--	Identifying security vulnerabilities including Cross-Site Scripting (XSS), SQL
--	Injection, access control issues, and security misconfigurations.
--	Analyzing HTTP requests, session handling mechanisms, and authentication flows to identify potential security risks.
--	Preparing technical security reports describing identified vulnerabilities and recommended remediation measures.
--	Providing security consulting and guidance to development teams regarding mitigation of vulnerabilities and secure coding practices.
--	Reviewing application architectures and configurations to identify potential security weaknesses.
--	Assisting with security testing of client systems and applications in accordance with industry best practices and OWASP
+*Vancouver, BC (Remote) · 11/2023 – 06/2025*
 
+- Delivered 80+ advanced penetration tests across web, API, mobile and network environments, surfacing 4,000+ vulnerabilities and cutting client risk exposure by 75%.
+- Owned all 80+ engagements end to end: scoping calls, rules of engagement, execution, client debriefs, report QA and remediation walkthroughs.
+- Chained 5 Active Directory techniques with BloodHound and SharpHound (Kerberoasting, AS-REP, pass-the-hash, NTLM relay, credential dumping) to Domain Admin.
+- Operated C2 infrastructure (Cobalt Strike, Brute Ratel) on ATT&CK-mapped red team engagements and helped blue teams validate detection.
+- Exploited 6+ vulnerability classes (XSS, SQL injection, IDOR/BOLA, SSRF, auth flaws, misconfigurations), tracing HTTP requests, sessions and auth flows.
+- Hardened client environments after each test, achieving a 40% reduction in attack surface across critical infrastructure.
+- Authored 80+ technical and executive reports with CVSS-rated remediation guidance; advised developers on secure coding.
+- Coached junior testers on methodology and reporting, speeding issue identification and remediation by 30%.
 
-### Penetration Tester  
-**H-X Technologies** _12/2020 – 11/2023_
+### Penetration Tester — H-X Technologies
 
-- Conducted over 100 penetration tests on corporate networks and applications, identifying and mitigating 5000+ critical vulnerabilities, reducing overall risk exposure by 60%.
-- Prevented potential breaches in 30+ high-profile systems, reducing the likelihood of successful attacks by 70%.
-- Delivered comprehensive security reports with detailed remediation steps, improving patching speed by 50%.
+*Remote · 12/2020 – 10/2023*
 
-### Cyber Security Analyst  
-**TechCom Services** _01/2014 – 12/2020_
+- Led 10 red team exercises end to end, simulating advanced persistent threats across Active Directory and raising client detection by 40%.
+- Ran 100+ penetration tests on corporate networks and applications, identifying and helping remediate 5,000+ vulnerabilities and cutting risk exposure by 60%.
+- Built C2 infrastructure and chained Kerberoasting, AS-REP, pass-the-hash and NTLM relay across 10 exercises to prove domain compromise, mapped to MITRE ATT&CK.
+- Protected 30 high-profile systems against likely breach paths, reducing the likelihood of successful attacks by 70%.
+- Wrote remediation-focused security reports that sped developer patching by 50%.
+- Mentored junior testers on 4 core tools (Burp Suite, Metasploit, Nmap, Impacket) and on report writing standards.
 
-- Led the execution of over 50 security audits, achieving 100% compliance with standards such as ISO 27001 and GDPR.
-- Designed and delivered cybersecurity training programs to 1,000+ employees, reducing human error incidents by 60%.
+### Cyber Security Analyst — TechCom Services LLC
 
----
+*Remote · 01/2014 – 12/2020*
+
+- Managed a team of 10 security staff, setting priorities, mentoring team members and owning team delivery.
+- Secured 500+ corporate systems and applications, reducing successful attacks by 70% over three years.
+- Drove remediation of 3,000+ vulnerabilities, halving the time to resolve critical issues.
+- Deployed a monitoring system that cut incident response time by 40%.
+- Led 50+ internal and external audits to 100% compliance with ISO 27001 and GDPR.
+- Rolled out security training for 1,000+ employees, reducing human-error incidents by 60%.
+
+## Certifications & Training
+
+- **OSCP** (OffSec) — exam scheduled, lab and exam preparation complete
+- **Cisco Ethical Hacker** — Cisco Networking Academy
+- **ISC2 Certified in Cybersecurity (CC)**, 2023
+- **TCM Security** — Practical API Hacking, Practical Ethical Hacking, Practical Malware Analysis & Triage, Practical Bug Bounty, Mobile Application Penetration Testing
+- **Offensive Penetration Testing** — Cybrary
+- **Implementing the NIST Risk Management Framework** — LinkedIn Learning
 
 ## Education
 
-**Master of Business Administration**  
-_National Aviation University (NAU), Ukraine_  _09/2007 – 07/2013_
+**Master of Business Administration (MBA)**
+National Aviation University — Kyiv, Ukraine · 09/2007 – 07/2013
 
 ---
 
-## Certificates & Training
-
-- **OSCP** (OffSec) - Ongoing
-- **CC** (ISC2)
-- **CEH** (CISCO)
-- Practical Bug Bounty (TCM)
-- Practical Malware Analysis & Triage (TCM)
-- Practical Ethical Hacking (TCM)
-- Practical API Hacking (TCM)
-- Mobile Application Penetration Testing (TCM)
-- Offensive Penetration Testing (Cybrary)
-- **Network+** (CompTIA)
-- **Security+** (CompTIA)
+*Keywords: penetration testing, red team, Active Directory, BloodHound, Kerberoasting, Cobalt Strike, MITRE ATT&CK, OWASP Top 10, API security, mobile application security, application security, threat modeling, CVSS, vulnerability management, ISO 27001, PCI DSS, NIST, Vancouver, British Columbia, Canada.*

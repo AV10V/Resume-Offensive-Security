@@ -1,0 +1,26 @@
+# Andrii Pavlov
+
+> Andrii Pavlov is a lead penetration tester and red team lead based in Vancouver, British Columbia, Canada, with 12+ years in cybersecurity and 6 years in offensive security. He currently leads a 3-person penetration testing team at Royal Bank of Canada (RBC), previously managed a team of 10 security staff at TechCom Services, and has delivered 380+ penetration tests and identified 4,000+ vulnerabilities. OSCP candidate. Open to Lead Penetration Tester, Red Team Lead and Penetration Testing Team Manager roles in Canada.
+
+## Résumé
+
+- [Full résumé (HTML)](https://av10v.github.io/Resume-Offensive-Security/): Professional summary, core competencies, technical skills, four roles from 2014 to present, certifications and education.
+- [Full résumé (plain text, llms-full.txt)](https://av10v.github.io/Resume-Offensive-Security/llms-full.txt): Complete résumé content in plain text, no navigation or styling.
+- [Résumé (DOCX)](https://av10v.github.io/Resume-Offensive-Security/Andrii_Pavlov_Resume.docx): Downloadable Word version, single-column and ATS-friendly.
+- [Résumé (ATS plain text)](https://av10v.github.io/Resume-Offensive-Security/andrii-pavlov-resume-ats.txt): Plain-text version for applicant tracking systems.
+
+## Key Facts
+
+- Current role: Senior Application Security Analyst, Royal Bank of Canada (RBC), Vancouver, BC, since June 2025; leads a 3-person penetration testing team.
+- Previous roles: Offensive Security Specialist at Cyberoo (Nov 2023 – Jun 2025); Penetration Tester at H-X Technologies (Dec 2020 – Oct 2023); Cyber Security Analyst at TechCom Services LLC (Jan 2014 – Dec 2020), where he managed a team of 10 security staff.
+- Volume: 380+ penetration tests, 200+ application security assessments at RBC, 80+ engagements at Cyberoo, 100+ tests at H-X Technologies, 4,000+ vulnerabilities identified, 10 red team exercises.
+- Outcomes: 75% reduction in client risk exposure, 40% reduction in attack surface, 100% ISO 27001 and GDPR compliance across 50+ audits, 1,000+ employees trained.
+- Specialisms: web, API, mobile (iOS/Android), network and Active Directory penetration testing; AD attack paths (BloodHound, SharpHound, Kerberoasting, AS-REP roasting, pass-the-hash, NTLM relay); C2 operations (Cobalt Strike, Brute Ratel); MITRE ATT&CK; OWASP Top 10, ASVS, WSTG, MASTG; threat modeling; CVSS risk rating.
+- Certifications: OSCP (candidate, exam scheduled), Cisco Ethical Hacker, ISC2 Certified in Cybersecurity (CC), TCM Security practical certifications (API hacking, ethical hacking, malware analysis and triage, bug bounty, mobile app penetration testing), Cybrary Offensive Penetration Testing, LinkedIn Learning NIST RMF.
+- Education: Master of Business Administration, National Aviation University, Kyiv, Ukraine, 2007–2013.
+- Contact: pavlov.andrii@gmail.com, +1 587 896 8118, Vancouver, BC, Canada.
+
+## Other Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/av10v/): Professional profile and current headline.
+- [GitHub](https://github.com/AV10V): Offensive security tooling, CTF write-ups and scripts, including an Active Directory attack-path CTF.
