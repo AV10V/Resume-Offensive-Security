@@ -1,5 +1,5 @@
 ---
-title: "Lead Penetration Tester | Red Team Lead | Vancouver, BC"
+title: "Lead Penetration Tester · Red Team Lead · Vancouver, BC"
 description: "Andrii Pavlov is a Vancouver, BC-based lead penetration tester and red team lead with 12+ years in cybersecurity and 6 years in offensive security: 380+ penetration tests, 200+ application security assessments at RBC, 4,000+ vulnerabilities identified, and leadership of 3- to 10-person security teams. OSCP candidate."
 ---
 
